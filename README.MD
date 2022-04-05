@@ -1,3 +1,3 @@
 ##proyecto web practica con git
 # autor::Alejandro Morales Loaiza
-este es un texto normal..
+este es un texto normal...
